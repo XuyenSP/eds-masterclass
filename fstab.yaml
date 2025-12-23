@@ -1,4 +1,5 @@
 mountpoints:
   /:
-    url: https://content.da.live/XuyenSP/eds-masterclass/
-    type: markup
+    url: "https://author-p144686-e1489994.adobeaemcloud.com/bin/franklin.delivery/XuyenSP/eds-masterclass/main"
+    type: "markup"
+    suffix: ".html"
